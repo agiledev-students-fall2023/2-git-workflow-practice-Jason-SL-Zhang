@@ -6,3 +6,6 @@ This article provides valuable insights into the world of software engineering, 
 
 ## Athena's Comments
 The article was very well-informed and presented a lot of information about the changing trends for the filed of software engineering. I thought the listed breakdown of growing sectors of SWE were well-summarized, and served as a reminder that even if a developer has already secured a stable job position, there is still a lot to learn as the tech industry grows.
+
+## Robert's Comments
+I really like the article's overall tone and it's optimistic view on the future of software engineering. There's a lot of headlines in the news about how developers and engineers are going to get replaced by AI and a closer examination reveals that it's not entirely true. It's true that coding might become more automated, but the complexity of modern software means that experienced engineers are still in high demand. Ultimately, the field does have a lot of opportunities for growth and development. 
